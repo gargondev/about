@@ -1,2 +1,2 @@
 # about
-Sobre meus interesses em programação.
+Sobre meus interesses e aprendizado em programação.
